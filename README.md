@@ -2,19 +2,9 @@
 
 I'm a developer based in the United Kingdom.
 
-I enjoy coding in:
+I enjoy coding in C#, Rust, Python, Scala, React/Vite/TypeScript, and sometimes some Blazor and C++
 
-- C#
-- Rust
-- Python
-- Scala
-- React/Vite/TypeScript
-
-I also sometimes code in:
-
-- C++
-
-
+My interests include, in no particular order, chess engines, emulators, ancient history, ontologies & parsers.
 
 <!--
 **stephendrew/stephendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
