@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm a developer based in the United Kingdom.
+
+I enjoy coding in:
+
+- C#
+- Rust
+- Python
+- Scala
+- React/Vite/TypeScript
+
+I also sometimes code in:
+
+- C++
+
+
+
 <!--
 **stephendrew/stephendrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
