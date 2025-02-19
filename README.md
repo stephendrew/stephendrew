@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a developer based in the United Kingdom.
+I'm a developer based in the United Kingdom, and have been coding to various levels of adequacy for nearly forty years.
 
 I enjoy coding in C#, Rust, Python, Scala, React/Vite/TypeScript, and sometimes some Blazor and C++
 
