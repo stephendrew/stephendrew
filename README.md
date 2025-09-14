@@ -2,7 +2,7 @@
 
 I'm a developer based in the United Kingdom, and have been coding to various levels of adequacy for nearly forty years.
 
-I enjoy coding in C#, Rust, Python, Scala, React/Vite/TypeScript, and sometimes some Blazor and C++
+I enjoy coding in C#, Rust, Python, Scala, React/Vite/TypeScript/NextJS, and sometimes some Blazor and C++
 
 My interests include, in no particular order, chess engines, emulators, ancient history, ontologies & parsers.
 
